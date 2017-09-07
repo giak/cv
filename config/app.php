@@ -179,6 +179,7 @@ return [
         /*
          * Add By Giak
          */
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class, // Laravel IDE helper
         Nwidart\Modules\LaravelModulesServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
 
