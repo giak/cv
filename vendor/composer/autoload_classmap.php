@@ -1502,6 +1502,7 @@ return array(
     'Illuminate\\View\\Compilers\\Concerns\\CompilesEchos' => $vendorDir . '/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesEchos.php',
     'Illuminate\\View\\Compilers\\Concerns\\CompilesIncludes' => $vendorDir . '/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesIncludes.php',
     'Illuminate\\View\\Compilers\\Concerns\\CompilesInjections' => $vendorDir . '/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesInjections.php',
+    'Illuminate\\View\\Compilers\\Concerns\\CompilesJson' => $vendorDir . '/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesJson.php',
     'Illuminate\\View\\Compilers\\Concerns\\CompilesLayouts' => $vendorDir . '/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesLayouts.php',
     'Illuminate\\View\\Compilers\\Concerns\\CompilesLoops' => $vendorDir . '/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesLoops.php',
     'Illuminate\\View\\Compilers\\Concerns\\CompilesRawPhp' => $vendorDir . '/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesRawPhp.php',

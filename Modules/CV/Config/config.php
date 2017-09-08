@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'name' => 'CV'
+    'name' => 'CV',
+    'page_name' =>'Giacomel Christophe'
 ];
