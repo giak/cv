@@ -7,7 +7,9 @@
     <link rel="stylesheet" type="text/css" href="{{ mix('/css/app.css') }}"/>
 </head>
 <body>
-@yield('content')
+@include('component.navigation.public')
+
+@yield('section_accueil')
 
 <script type="text/javascript" src="{{ mix('/js/app.js') }}"></script>
 </body>
